@@ -1,0 +1,1 @@
+This website is a joke with some of my friends
