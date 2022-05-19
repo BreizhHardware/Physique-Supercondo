@@ -1,1 +1,1 @@
-This website is a joke with some of my friends
+Un site pour appuyer un exposé sur les supercondensateurs pour l'ES physique.
