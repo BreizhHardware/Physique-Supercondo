@@ -3400,7 +3400,7 @@ input, select, textarea {
 
 				#header > nav > ul > li {
 					display: inline-block;
-					margin-left: 1.75em;
+					margin-left: 1.5em;
 					padding: 0;
 					vertical-align: middle;
 				}
@@ -3413,7 +3413,7 @@ input, select, textarea {
 						border: 0;
 						color: rgba(255, 255, 255, 0.35);
 						display: inline-block;
-						font-size: 0.6em;
+						font-size: 0.5em;
 						font-weight: bold;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
